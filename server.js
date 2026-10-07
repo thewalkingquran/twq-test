@@ -16,7 +16,7 @@ http.createServer((req, res) => {
       </head>
       <body>
         <h1>Hosting Advisor Auto Deploy Test</h1>
-        <p>Version 1 - Initial Deployment</p>
+        <p>Version 2 - Auto Deploy Successful</p>
       </body>
     </html>
   `);
